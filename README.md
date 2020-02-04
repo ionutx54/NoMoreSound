@@ -1,4 +1,4 @@
-# NoMoreSound
+# NoMoreSound (Debian based distros)
 # Tired of that annoying popping sound when volume is changed?
 
 Mapped keys for silent volume changing in Ubuntu are ALT + VOL UP/DOWN
