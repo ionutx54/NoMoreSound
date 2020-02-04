@@ -8,7 +8,6 @@ Mapped keys for silent volume changing in Ubuntu are ALT + VOL UP/DOWN
 1) Save the .oga filee wherever you want
 2) Make a copy of the original sound:
 # mv /usr/share/sounds/freedesktop/stereo/audio-volume-change.oga /usr/share/sounds/freedesktop/stereo/audio-volume-change.oga.backup
-3) Just copy the new sound over
+3) Just copy the new sound over (Use -r for recursively copying multiple files when inside a folder)
 # sudo cp %yourpath%/silent.ogg /usr/share/sounds/freedesktop/stereo/audio-volume-change.oga
-  Use -r for recursively copying multiple files when inside a folder
 4) Reboot
